@@ -3,7 +3,7 @@
 ## 🚀 Live Demo
 
 **Streamlit App:**
-[Add Your Streamlit URL Here]
+[https://flipkart-price-analysis-hmzzzfngp6nec2wvpfxvyl.streamlit.app]
 
 ---
 
@@ -108,11 +108,6 @@ Cloud Deployment
 ## 🖼️ Dashboard Preview
 
 Add screenshots here.
-
-### Main Dashboard
-
-![Dashboard Screenshot](dashboard.png)
-
 ---
 
 ## ⚙️ Installation
@@ -184,6 +179,6 @@ FLIPKART-PRICE-ANALYSIS/
 
 ## 👩‍💻 Author
 
-**Eeshika Mukherjee**
+**Eeshika Mukhopadhyay**
 
 GitHub: https://github.com/milkywayisouruniverse
