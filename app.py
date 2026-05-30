@@ -16,15 +16,11 @@ st.set_page_config(
 # DATABASE CONNECTION
 # --------------------------------------------------
 engine = create_engine(
-    "postgresql+psycopg2://postgres:eeshika2023@localhost:5433/flipkart_analysis"
+    st.secrets["DATABASE_URL"]
 )
 
-# --------------------------------------------------
-# LOAD DATA
-# --------------------------------------------------
 query = "SELECT * FROM flipkart_products"
 df = pd.read_sql(query, engine)
-
 # --------------------------------------------------
 # DATA CLEANING
 # --------------------------------------------------
